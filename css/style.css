@@ -23,3 +23,13 @@
 {
     display: none;
 }
+
+.hit
+{
+    background-color: green; 
+}
+
+.miss
+{
+    background-color: red;
+}
